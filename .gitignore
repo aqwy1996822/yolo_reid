@@ -1,0 +1,8 @@
+*.MP4
+*.mp4
+*.avi
+paobu/
+paobu2/
+.idea/
+cmake-build-debug/
+*.engine
